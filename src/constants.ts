@@ -78,7 +78,7 @@ export const PORTFOLIO: PortfolioItem[] = [
     title: 'Ensaio Gestante Marina',
     category: 'Gestante',
     location: 'Parque das Palmeiras',
-    imageUrl: 'https://images.unsplash.com/photo-1559734887-19742177a883?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1516724562728-afc824a36e84?auto=format&fit=crop&w=800&q=80',
     description: 'A doce espera de Marina em um ensaio leve e natural em meio à natureza.'
   },
   {
@@ -86,7 +86,7 @@ export const PORTFOLIO: PortfolioItem[] = [
     title: 'Aniversário de 1 Ano do Leo',
     category: 'Infantil',
     location: 'Espaço Kids',
-    imageUrl: 'https://images.unsplash.com/photo-1530103043960-ef38714abb15?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&w=800&q=80',
     description: 'Muita diversão e descobertas no primeiro aninho do Leo.'
   },
   {
