@@ -1,20 +1,6 @@
-@import "tailwindcss";
-
-@theme {
-  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
-  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
-
-  --color-primary: #8B0000;
-  --color-primary-dark: #660000;
-  --color-primary-light: #A52A2A;
-  
-  --color-black: #000000;
-  --color-white: #FFFFFF;
-  
-  --color-gray-soft: #F5F5F5;
-  --color-gray-medium: #E0E0E0;
-  --color-gray-dark: #333333;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @layer base {
   html {
